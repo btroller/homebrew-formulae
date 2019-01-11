@@ -1,4 +1,4 @@
-class OTP < Formula
+class Otp < Formula
   desc "One-time pad encryption/decryption software -- NOT VERIFIED AS SECURE"
   homepage "https://github.com/btroller/One-Time-Pad"
   url "https://github.com/btroller/One-Time-Pad/archive/2.0.tar.gz"
